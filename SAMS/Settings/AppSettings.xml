@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  <Server>(local)</Server>
+  <DBName>dbYorkShire20151204</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>firms1234</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>
+</AppSettings>

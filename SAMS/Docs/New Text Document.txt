@@ -1,0 +1,14 @@
+
+update MENU
+set IS_ACTIVE=0
+where MENU_ID in (19)
+
+
+update MENU
+set menu_description='Product(s) Description'
+where MENU_ID in (18)
+
+
+update MENU
+set IS_ACTIVE=0
+where MENU_ID in (20)
